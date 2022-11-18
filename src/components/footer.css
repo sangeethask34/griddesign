@@ -1,0 +1,28 @@
+footer{
+    background-color: #89a1f8;
+    padding: 80px 16%;
+    margin-top: 30px;
+    text-align: center;
+    display: flex;
+    margin-bottom: 0;
+  }
+  footer .footer-section{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    text-align: left;
+  }
+  .footer-section a{
+    color: #3b3b3b;
+    margin-bottom: 0.5rem;
+    text-decoration: none;
+  }
+  .footer-section h3{
+    color:#0b0c12;
+    margin: 1rem 0;
+  }
+  .footer-section i{
+    font-size: 1.2rem;
+    color: white;
+    margin: 1rem 1rem 1rem 0;
+  }
